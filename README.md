@@ -2,12 +2,17 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+
+- <b>PowerPoint Presentation</b>
+  - [Awareness Training: Phishing](https://github.com/joshmadakor1/Sentinel-Lab)
+ 
+
+<h2>👨‍💻 Scripting Projects:</h2>
+
 - <b>Java</b>
   - [Password Strengthh Checker](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Python</b>
   - [Budget Calculator](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
-- <b>PowerPoint Presentation</b>
-  - [Awareness Training: Phishing](https://github.com/joshmadakor1/Sentinel-Lab)
 
 
 <h2>📺 Popular YouTube Videos</h2>
