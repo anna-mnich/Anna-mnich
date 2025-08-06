@@ -10,7 +10,7 @@
 <h2>👨‍💻 Scripting Projects:</h2>
 
 - <b>Java</b>
-  - [Password Strength Checker](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Password Strength Checker](https://github.com/anna-mnich/Password-Strength-Checker.git)
 - <b>Python</b>
   - [Budget Calculator](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 
