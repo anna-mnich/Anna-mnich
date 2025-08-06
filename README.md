@@ -4,7 +4,7 @@
 
 
 - <b>PowerPoint Presentation</b>
-  - [Awareness Training: Phishing](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Awareness Training: Phishing](https://github.com/anna-mnich/Awareness-Training-Phishing.git)
  
 
 <h2>👨‍💻 Scripting Projects:</h2>
