@@ -15,9 +15,7 @@
   - [Budget Calculator](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 
 
-<h2>📺 Popular YouTube Videos</h2>
 
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
