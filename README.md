@@ -4,8 +4,8 @@
 
 - <b>Vulnerability Management</b>
   - [Router Vulnerability Assessment](https://github.com/anna-mnich/Router-Vulnerability-Assessment.git)
-- <b>PowerPoint Presentation</b>
-  - [Awareness Training: Phishing](https://github.com/anna-mnich/Awareness-Training-Phishing.git)
+- <b>Awareness Training</b>
+  - [Phishing (PowerPoint Presentation)](https://github.com/anna-mnich/Awareness-Training-Phishing.git)
  
 
 <h2>👨‍💻 Scripting Projects:</h2>
